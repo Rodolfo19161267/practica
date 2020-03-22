@@ -29,3 +29,4 @@ tam = int(input("Introduzca el tamaño:"))
 print(" ")
 for x in range(tam):
     print("* "*x)
+print(" ")
