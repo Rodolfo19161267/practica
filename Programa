@@ -1,0 +1,31 @@
+print("Ejercicio 1")
+lon = int(input("Introduzca el tamaño:"))
+print(" ")
+for x in range(lon):
+    print("* "*x)
+print(" ")
+
+
+print("Ejercicio 2")
+num = int(input("Introduzca el tamaño:"))
+print(" ")
+for x in range(num,0,-1):
+    print("* "*x)
+print(" ")
+
+
+print("Ejercicio 3")
+nal = int(input("Introduzca el tamaño:"))
+print(" ")
+for x in range(val):
+    print("* "*x)
+for y in range(c,0,-1):
+    print("* "*y)
+print(" ")
+
+
+print("Ejercicio 4")
+tam = int(input("Introduzca el tamaño:"))
+print(" ")
+for x in range(tam):
+    print("* "*x)
